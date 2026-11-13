@@ -46,7 +46,7 @@ Open the profile menu in the app and tap **Delete account**. This permanently re
 
 *Effective date: November 13, 2026*
 
-This policy explains what DrCanI collects, why, and your choices. The app is operated by Björn Zachrisson (contact: [swefootgames@gmail.com](mailto:swefootgames@gmail.com)).
+This policy explains what DrCanI collects, why, and your choices. Contact: [swefootgames@gmail.com](mailto:swefootgames@gmail.com).
 
 ### Information we collect
 
@@ -90,4 +90,4 @@ We may update this policy and will change the effective date above when we do.
 
 ---
 
-© 2026 Björn Zachrisson. DrCanI is not affiliated with Zillow or Apple.
+© 2026 DrCanI. DrCanI is not affiliated with Zillow or Apple.
